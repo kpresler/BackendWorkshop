@@ -8,18 +8,18 @@ You will also test your backend to ensure that everything works correctly using 
 
 We have the backend implementation and testing workshop into two parts, that you should complete in order.  These will help your with your Team Technical Deliverables and your Independent Technical Deliverables.
 
-  * [Part 1: Database and Persistence Implementation](persistence-implementation)
-  * [Part 2: REST API Implementation](api-implementation)
+  * [Part 1: Database and Persistence Implementation](persistence-implementation.md)
+  * [Part 2: REST API Implementation](api-implementation.md)
 
 
 ## Activity: Team Technical Deliverables
 
 **_Deliver your technical deliverables to the `development` branch.  DO NOT PR to `main` until we do the frontend next week!_**
 
-Together with your team, implement the persistence and API logic for your backend design around the arbitrary ingredients functionality.  Note that the design discussed in the [Part 1: Database and Persistence Implementation](persistence-implementation) portion of the website is _not sufficient_ because the enumerated types do not support dynamic ingredient types when adding or editing recipes.  
+Together with your team, implement the persistence and API logic for your backend design around the arbitrary ingredients functionality.  Note that the design discussed in the [Part 1: Database and Persistence Implementation](persistence-implementation.md) portion of the website is _not sufficient_ because the enumerated types do not support dynamic ingredient types when adding or editing recipes.  
 
 
-You will **implement and test** your design for the _arbitrary ingredient_ functionality. You are welcome to draw inspiration from the [Part 1: Database and Persistence Implementation](persistence-implementation) workshop, which may lead to a change in your original design.  As you implement, you may decide that you original design was not sufficient.  **You should document these implementation decisions in a wiki page called "Implementation Decisions".**
+You will **implement and test** your design for the _arbitrary ingredient_ functionality. You are welcome to draw inspiration from the [Part 1: Database and Persistence Implementation](persistence-implementation.md) workshop, which may lead to a change in your original design.  As you implement, you may decide that you original design was not sufficient.  **You should document these implementation decisions in a wiki page called "Implementation Decisions".**
 
   * Persistence Done Criteria
      * New arbitrary ingredients can be created, saved to the database, retrieved, updated, and deleted.

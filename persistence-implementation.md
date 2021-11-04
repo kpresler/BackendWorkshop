@@ -512,7 +512,7 @@ That's been a lot of new material!  Let's take a moment to recap before we move 
 You should always test your persistence classes and how the database work!  If you need a reminder about how test persistence classes, take a look at Testing Workshop [Part 1: Database & Persistence Testing](persistence-testing)! 
 
 ## Onward
-We've made some fantastic progress on our persistent classes by create a new `Ingredient` class (full disclosure - it's not done to fully meet the requirements).  However, our backend is not yet complete.  We need to update our REST API to provide endpoints that clients (i.e., the frontend) can use to interact with our persistence classes and create some tasty beverage recipes!  Proceed to [Part 2: REST API Implementation](api-implementation).
+We've made some fantastic progress on our persistent classes by create a new `Ingredient` class (full disclosure - it's not done to fully meet the requirements).  However, our backend is not yet complete.  We need to update our REST API to provide endpoints that clients (i.e., the frontend) can use to interact with our persistence classes and create some tasty beverage recipes!  Proceed to [Part 2: REST API Implementation](api-implementation.md).
 
 
 

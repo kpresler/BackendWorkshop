@@ -211,6 +211,6 @@ You'll need to update all existing tests so they compile and pass!
 
 ## Testing REST APIs
 
-You should always test your REST APIs!  If you need a reminder about how test REST APIs, take a look at Testing Workshop [Part 2: API Testing](api-testing)! 
+You should always test your REST APIs!  If you need a reminder about how test REST APIs, take a look at Testing Workshop ! 
 
-Return to [the main page](README) for the tasks to carry out on your own and as a team.
+Return to [the main page](README.md) for the tasks to carry out on your own and as a team.
